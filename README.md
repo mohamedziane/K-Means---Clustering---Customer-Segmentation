@@ -140,6 +140,6 @@ k-means is only one of a ton of clustering algorithms. Below is a brief descript
 * **DBSCAN** is based on point density rather than distance. It groups together points with many nearby neighbors. DBSCAN is one of the most cited algorithms in the literature. It does not require knowing the number of clusters a priori, but does require specifying the neighborhood size.
 
 <p align="center">
-  <img width="300" height="400" src="https://raw.githubusercontent.com/mohamedziane/K-Means---Clustering---Customer-Segmentation/main/images/img15.png">
+  <img width="1000" height="400" src="https://raw.githubusercontent.com/mohamedziane/K-Means---Clustering---Customer-Segmentation/main/images/img15.png">
 </p>
 
